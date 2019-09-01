@@ -1,0 +1,276 @@
+                                Curriculum Vitae                                                                    Ganea Ion Eugen
+
+
+   INFORMAŢII PERSONALE        Ganea Ion Eugen
+                                   Str. Emil Gîrleanu, nr. 13, Craiova, Romania
+                                   +40251438198
+                                    eganea@software.ucv.ro
+                                   www.software.ucv.ro/”eganea
+
+
+
+
+EXPERIENŢA PROFESIONALĂ
+
+        01.10.2011 - prezent   Șef Lucrări
+                               Facultatea de Automatică, Calculatoare și Electronică, Universitatea din Craiova
+                               ▪ Discipline: Algoritmi pentru regăsirea informației, Procesarea imaginilor, Sisteme expert, Programare
+                                 orientată pe obiecte, Medii de programare vizuală, Limbaje formale și automate, Proiectarea
+                                 compilatoarelor, Ingineria programării
+                               ▪ Elaborare orar, coordonare cercuri ştiinţifice studenţeşti, proiecte de licenţă și disertație, elaborare
+                                 lucrări laborator, cercetare
+
+
+     01.06.2011 - 01.10.2013   Coordonator proiect
+                               Ubisoft Romania
+                                Coordonarea departamentului „Technology Group” din cadrul Ubisoft Craiova
+
+        01.10.2003 - prezent   Cercetător
+                               Centrului de cercetare ”Dezvoltare de Aplicații Multimedia”, Departamentul deCalculatoare și
+                               Tehnologia Infromației, Universitatea din Craiova
+                               ▪ Domenii de cercetare: Procesarea imaginilor, Baze de date multimedia,Algoritmi pentru regăsirea
+                                 informației, Sisteme expert, Programare orientată pe obiecte, Limbaje formale și automate,
+                                 Proiectarea compilatoarelor
+
+
+     01.10.2004 - 01.10.2011   Asistent universitar
+                               Facultatea de Automatică, Calculatoare și Electronică, Universitatea din Craiova
+                               ▪ Discipline: Structuri de date și algoritmi, Inteligența artificială, Sisteme expert, Programare orientată
+                                 pe obiecte, Medii de programare vizuală, Limbaje formale și automate, Proiectarea compilatoarelor,
+                                 Ingineria programării
+                               ▪ Elaborare orar, coordonare cercuri ştiinţifice studenţeşti, proiecte de licenţă, elaborare lucrări
+                                 laborator, cercetare
+
+
+     01.10.2002 - 01.10.2011   Preparator universitar
+                               Facultatea de Automatică, Calculatoare și Electronică, Universitatea din Craiova
+                               ▪ Discipline: Inteligența artificială, Sisteme expert, Programare orientată pe obiecte, Medii de
+                                 programare vizuală, Limbaje formale și automate, Proiectarea compilatoarelor, Comerț electronic și
+                                 securitatea datelor, Modelarea sistemelor de calcul
+                               ▪ Asistență ore, elaborare lucrări de laborator, proiecte de semestru, proiecte de licență
+
+
+    EDUCAŢIE ŞI FORMARE
+
+     01.10.2003 - 01.10.2010   Doctor
+                               Doctorat la Universitatea din Craiova
+
+
+
+
+                                                                                                                                Pagina 1 / 5
+                                Curriculum Vitae                                                                                Ganea Ion Eugen
+
+
+                               ▪ Studiul algoritmilor și structurilor de date, bazelor de date, prelucrării imaginilor, rețele de calculatoare
+                                 și protocoale
+                               ▪ Implementare metodelor de prelucrare morfologică și algoritmi pentru segmentarea imaginilor,
+                                 algoritmi pentru extragerea trăsăturilor imagistice și de algoritmi pentru recunoașterea formelor
+
+   01.10.2002 - 01.06.2003     Master
+                               Studii Aprofundate ”Inginerie Software”, Facultatea de Automatică, Calculatoare și Electronică,
+                               Universitatea din Craiova
+   01.10.1997 - 01.07.2002     Inginer
+                               Specializarea Calculatoare, Facultatea de Automatică, Calculatoare și Electronică, Universitatea din
+                               Craiova
+   15.09.1994 - 01.06.1997     Analist programator
+                               Specializarea Matematică-Informatică, Grupul Școlar Industrial Căi Ferate, Craiova
+
+
+            Limba maternă      română
+
+
+Alte limbi străine cunoscute                      ΙNΤELEGERE                                           VORBIRE                      SCRIERE
+
+                                                                                      Participare la
+                                      Ascultare                  Citire                                          Discurs oral
+                                                                                      conversaţie
+                   Engleză                C                        C                        C                         B               B
+
+
+                  Franceză                B                        B                        B                         B               B
+
+
+
+
+Competenţe de comunicare       ▪ competenţe bune de comunicare cu colaboratori externi dobândite și confirmate de-a lungul
+                                 colaborării cu parteneri din Franța și Canada ca manager de proiect
+                Competenţe     ▪ leadership, în perioada iunie 2011-septembrie 2013 am coordonat echipe mai mari de 10 persoane
+organizaţionale/manageriale    ▪ director de proiect de cercetare și membru în cadrul a mai multe proiecte de cercetare
+      Permis de conducere      ▪B
+
+
+
+
+                               © Uniunea Europeană, 2002-2013 | http://europass.cedefop.europa.eu                                         Pagina 2 / 5
+             Curriculum Vitae                                                                Ganea Ion Eugen
+
+
+             I. Carti publicate in edituri:
+Publicaţii   1. Brezovan, M., Ganea, E. (2007) Elemente de programare vizuala utilizand Visual C++ si biblioteca
+             MFC. Editura SITECH, Craiova, ISBN 978-973-746-475-0.
+             2. Brezovan, M., Ganea, E. (2011) Sisteme bazate pe reguli. Editura SITECH, Craiova, ISBN 978-
+             606-11-1996-7.
+
+             II. Articole publicate:
+             1. Ganea, E., Mocanu, M., (2003), Image Shape Recognition, SINTES’11, The International
+             Symposium on System Theory, Automation, Robotics, Computers, Informatics, Craiova, Romania,
+             Computers.
+             2. Ganea, E., Mocanu, M. (2003) An Introduction to Image Analysis, Annals of the University of
+             Craiova, Vol. 1, Computers, 2003, pages 119 - 125.
+             3. Ganea E., Brezovan M., Ganea S. (2004). Case Tool for Quality Evaluation of C# Programs, Annals
+             of the University of Craiova, Vol. 2, 2004, pages 53 - 58.
+             4. Ganea, E., Brezovan, M., Ganea, S., (2005). Character Recognition Using Neural Networks,
+             SINTES’12, The International Symposium on System Theory, Automation, Robotics, Computers,
+             Informatics, Craiova, Romania, Computers.
+             5. Ganea, E., Brezovan, M., Ganea, S., (2005) Image Segmentation Algorithms, Revista Else
+             Software, nr. 24, Craiova.
+             6. Ganea, E., Brezovan, M., Ganea, S., (2005) C# Preprocessor, Revista Else Software, nr. 25,
+             Craiova, pp. 26 – 44
+             7. Udristoiu, S., Cerbulescu, C., Ganea, E., (2005) Implementing synchronization using pipes, The
+             International Symposium on System Theory, Automation, Robotics, Computers, Informatics,
+             Electronics and Instrumentation (SINTES 12), Craiova, Romania.
+             8. Wotawa, F., Nica, M., Ganea, E. (2005) Program Analysis Using Hypergraph Decomposition, Else
+             Software, Ed. Sitech, Craiova.
+             9. Brezovan, M., Ganea, E. (2006), Subtype and Inheritance in Object Oriented High Level Petri Nets,
+             Annals of the University of Craiova. Series: Automation, Computers, Electronics and Mechatronics,
+             Vol. 3(30), No. 2, pp. 33-39, 2006, ISSN: 1841-0626
+             10. Ganea, E., Brezovan, M., Ganea, S., (2007) Seismic Image Processing for Facies Detection using
+             Textural Attributes and Neural Nets, The International Symposium on System Theory, Automation,
+             Robotics, Computers, Informatics, Electronics and Instrumentation (SINTES 13), 18 - 20 Octombrie,
+             Craiova, Romania.
+             11. Brezovan, M., Ganea, E. (2007) Object-Oriented High Level Petri Nets as a Formal Language for
+             Modelling and Design Multi-Agent Systems, The International Symposium on Intelligent and
+             Distributed Computing (IDC'2007).
+             12. Ganea, E., Brezovan, M., Ganea, S., (2007) A Seismic Data Analysis Method using Fuzzy Neural
+             Nets, Annals of the University of Craiova.
+             13. Brezovan, M., Ganea, E. (2007), A Categorial Form of Extended High Level Petri Nets with
+             Objects, Else Software, Vol. 27, pp. 1-10.
+             14. Ganea, E., Brezovan, M., Ganea, S., (2007) Shape recognition using neural nets methods and
+             texture attributes, Else Software, Ed. Sitech, Craiova.
+             15. Stanescu, L., Burdescu, D., Brezovan, M., Stoica, C., Ganea, E. (2007). An Integrated System for
+             Querying the Medical Digital Collections, 16th International Conference on Information Systems
+             Development, Galway, Ireland. ISD Theory, Practice, and Education. Springer-Verlag: New York, ISBN
+             978-0387304038.
+             16. Brezovan, M., Ganea, E., (2008) Interpreted Object Oriented High Level Petri Nets, Annals of the
+             University of Craiova, Vol. 5, Computers, pages 1 - 7.
+             17. Ganea, E., Brezovan, M., (2009) An Object-Oriented Approach for Image Processing and
+             Semantic Query based on Content, International Symposium on Multimedia – Applications and
+             Processing, Mrągowo, Poland.
+             18. Brezovan, M., Burdescu D. D., Ganea, E., Stanescu, L. (2009). Normalized Curve Signatures for
+             Shape Representation and Retrieval. The International Conference on Image Processing, Computer
+             Vision, and Pattern Recognition. Las Vegas, Nevada, USA.
+             19. Burdescu, D.D., Brezovan, M., Ganea, E., Stanescu, L., (2009) A New Method for Segmentation
+             of Images Represented in a HSV Color Space, Advanced Concepts for Intelligent Vision Systems,
+             Bordeaux, France.
+             20. Gabriel M., Stanescu L., Burdescu D., Brezovan M., Ganea E., and Stoica Spahiu C., (2009) A
+             Modern Tool for Viewing the Learning Resources, International Conference on Hybrid Learning 2009.
+             21. Ganea, E., Brezovan, M., (2010) An Object Oriented Graph Approach for Image Representation
+             and Query Based on Content, International Journal of Computer Science and Applications.
+             22. Ganea, E., (2010) A Unified Approach for Image Segmentation and Annotation to Storage and
+             Retrieval based on Content, The Second International Conferences on Advances in Multimedia
+             MMEDIA 2010.
+             23. Ganea E., Brezovan M., (2010), An hypergraph object oriented model for image segmentation and
+             annotation, IMCSIT 2010
+                                                                                                       Pagina 3 / 5
+             Curriculum Vitae                                                                 Ganea Ion Eugen
+
+
+             24. Ganea, E., Brezovan, M., (2010) Graph Object Oriented Databases for Semantic Image Retrieval,
+Publicații   14th East-European Conference on Advances in Databases and Information Systems, ADBIS 2010,
+             LNCS vol. 6295, pages 571 - 575.
+             25. Ganea, E., Brezovan, M., (2010) An Hypegraph Object-Oriented Model for Image Segmentation
+             and Annotation, International Symposium on Multimedia – Applications and Processing, Mrągowo,
+             Poland.
+             26. Iancu, A., Popescu, B., Brezovan, M., Ganea, E. (2010) Region-based Measures for Evaluation of
+             Color Image Segmentation, International Symposium on Multimedia – Applications and Processing,
+             Mrągowo, Poland.
+             27. Brezovan M., Burdescu, D.D., Ganea, E., Stanescu, L. (2010), An Adaptive Method for Efficient
+             Detection of Salient Visual Object from Color Images, 20th International Conference on Pattern
+             Recognition.
+             28. Mihai, G.C, Stanescu, L., Burdescu, D.D., Doringa, A., Brezovan, M., Ganea, E., (2010), A
+             Comparison of Three Graph-Based Image Segmentation Algorithms, International Conference on
+             Image Processing, Computer Vision, & Pattern Recognition, (IPCV 2010), Las Vegas, USA
+             29. Brezovan, M., Burdescu, D.D., Ganea, E., Stanescu, L., (2010), High-Level Petri Nets with Object-
+             Orientation - A High-Level Petri Net Model Allowing Multiple Inheritance and Multiple Polymorphism,
+             The 4th International Symposium On Intelligent Distributed Computing (IDC 2010), Tangier, Morocco,
+             Studies in Computational Intelligence Springer Volume 315/2010, pg. 219-228; ISBN 978-3-642-
+             15210-8.
+             30. Brezovan, M., Burdescu, D.D., Ganea, E., Stanescu, L., (2010), Boundary-Based Performance
+             Evaluation of a Salient Visual Object Detection Algorithm, International Conference on Image
+             Processing, Computer Vision, & Pattern Recognition, (IPCV 2010), Las Vegas, USA.
+             31. Ganea, E., Burdescu, D.D., Brezovan, M., Stanescu, L., Stoica, C. (2010), A System for Image
+             Processing to Automatic Annotation, The Fifth International Multi-Conference on Computing in the
+             Global Information Technology, Valencia, Spain.
+             32. Mihai, C.G., Stanescu, L., Burdescu, D.D., Brezovan, M., Stoica Spahiu, C., Ganea, E. (2011),
+             Annotation System for Medical Domain, Soft Computing Models In Industrial And Environmental
+             Applications, 6th International Conference SOCO 2011. Advances in Intelligent and Soft Computing,
+             2011, Vol. 87/2011, pp. 579-587, DOI: 10.1007/978-3-642-19644-7_61
+             33. Burdescu, D.D., Brezovan, M., Ganea, E., Stanescu, L., (2011), New Algorithm for Segmentation
+             of Images Represented as Hypergraph Hexagonal-Grid, Iberian Conference on Pattern Recognition
+             and Image Analysis, Volum: 6669, Pg: 395-402, ISSN: 978-3-642-21256-7
+             34. Ganea, E., Burdescu, D.D., Brezovan, M., (2011), New Method to Detect Salient Objects in Image
+             Segmentation using Hypergraph Structure, Advances in Electrical and Computer Engineering, Volum:
+             11, Pg: 111-116, ISSN: 1582-7445
+             35. Iancu, A., Popescu, B., Brezovan, M., Ganea, E., (2011) Quantitative Evaluation of Color Image
+             Segmentation Algorithms, International Journal of Computer Science and Applications, vol. 8, no. 1,
+             2011, pp. 36-53, ISSN: 0972-9038.
+             36. Popescu, B., Iancu, A., Burdescu, D.D., Brezovan, M., Ganea, E., (2011) Evaluation of Image
+             Segmentation Algorithms from the Perspective of Salient Region Detection, Lecture Notes in
+             Computer Science, Springer Verlag, vol. 6915, 2011, pp. 183-194, ISSN: 0302-9743.
+             37. E. Ganea, M. Brezovan. Graph Object-Oriented Database for Semantic Image Retrieval, Lecture
+             Note of Computer Science, Springer Verlag, vol. 6295, pp. 563-567, 2011, ISSN: 0302-9743.
+             38. Ganea, E., Brezovan, M., (2011), Image indexing by spatial relationships between salient objects,
+             Proc. Of the Federated Conference on Computer Science and Information Systems (FedCSIS), 2011,
+             pp. 699-704, ISBN: 978-1-4577-0041-5.
+             39. Popescu, B., Popescu, A., Brezovan, M., Ganea, E. (2012), Unsupervised partitioning of numerical
+             attributes using fuzzy sets, Proc. Of the Federated Conference on Computer Science and Information
+             Systems (FedCSIS), 2012, pp. 751-754, ISBN: 978-1-4673-0708-6
+             40. Popescu, A., Popescu, B., Brezovan, M., Ganea, E. (2013), Image Semantic Annotation using
+             Fuzzy Decision Trees. FedCSIS 2013: 597-601.
+             41. Brezovan, M., Stanescu, L., Ganea, E. (2013), From GMoDS Models to Object-Oriented
+             Specifications in Event-B, 3rd International Workshop on Applications of Software Agents - WASA,
+             ICSTCC 2013.
+
+             1. Virtual Palpation SYSTEM for advanced training medical diagnostic and treatment, PN-II-PT-PCCA-
+Proiecte     2011-3.2-0503, Durata 3 ani, Valoare totala 2.836.550, membru colectiv cercetare
+             2.Noi metode bazate pe rețele Petri orientate pe obiecte și tehnici de procesare semantică a
+             imaginilor, utilizate pentru monitorizarea și supravegherea sistemelor flexibile de fabricație. CNCSIS
+             Idei, Cod 535/2008, Durata 3 ani, Valoare totala: 757.275 RON, membru colectiv cercetare
+             3.SIBIM - Sistem informatic pentru interogarea bazată pe conținut a bazelor de date multimedia cu
+             imagini medicale, Contract PNCDI - Modul IV Parteneriate, nr. D11 045 / 14.09.2007, Durata 2 ani,
+             Valoare totala: 1.875.000 RON, membru colectiv cercetare
+             4.Metode bazate pe rețele neurale pentru recunoașterea formelor utilizând caracteristica textură,
+             CNCSIS TD nr. 27GR/11.05.2007, director de proiect
+             © Uniunea Europeană, 2002-2013 | http://europass.cedefop.europa.eu                          Pagina 4 / 5
+Curriculum Vitae                                                                  Ganea Ion Eugen
+
+
+5.SUM: supermarchet prin sisteme și tehnologii informatice, e-commerce - EUREKA SUM E!, nr.
+2754/2003/RO, membru colectiv cercetare
+6.Sistem informatic on-line pentru interogarea bazată pe conținut a bazelor de date multimedia
+rezultate prin extragerea informației din fișierele standard DICOM - Grant CNCSIS de tip A, nr.
+629/2007, Durata 2 ani, Valoare totala: 184.000 RON, membru colectiv cercetare
+7.Algoritmi pentru prelucrarea și interogarea bazelor de date multimedia cu imagini medicale, - Grant
+CNCSIS de tip A, nr. 230/2006, Durata 3 ani, Valoare totala: 270.000 RON, membru colectiv cercetare
+8.Utilizarea rețelelor Petri orientate pe obiecte pentru modelarea și simularea sistemelor flexibile de
+fabricație, Grant CNCSIS, Cod 97/2005, CNCSIS Romania, 35.700 Lei, membru colectiv cercetare
+9.Noi algoritmi de cautare pe baza de continut in bazele de date multimedia - Contract Academia
+Romana nr. 153/05.08.2005, valoare: 3.000 RON, membru colectiv cercetare
+10.Baze de date multimedia cu support distribuit pentru imagistică medicală, Grant CNCSIS, Cod
+280/2004, membru colectiv cercetare
+11.Cercetări privind dezvoltarea și integrarea sistemelor de imagistică medicală și bazelor de date
+distribuite, contract nr. 26C/17.06.2004, în cadrul Grantului CNCSIS tip A no.316/2004, membru
+colectiv cercetare
+12.Baza de date multimedia cu suport distribuit pentru imagistica medicala - CNCSIS de tip A, cod
+280, nr. 33062/24.06.2004, valoare: 16.900 RON, membru colectiv cercetare
+13.Multimedia databases content-based search algorithms – system software implementation -
+Contract Academia Romana nr. 150/2004, valoare: 4.000 RON, membru colectiv cercetare
+14.Analiza complexității algoritmilor în căutarea bazată pe conținut în bazele de date multimedia,
+Grant nr.169/2003 - Academia Română, membru colectiv cercetare
+
+
+
+
+                                                                                             Pagina 5 / 5
+
