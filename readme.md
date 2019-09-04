@@ -3,12 +3,13 @@
 
 * Statistics include 164 CVs from total of 315 Romanian politicians.
 * 151 politicians (47.94%) didn't made public the resume.
+* romanian political parties in 2019: UDMR, PSD, ALDE, PNL, USR
 
-#### Top most frequented  Universities by Romanian politicians
+#### Top most frequented Universities by Romanian politicians.
 
 [![Editor Screen](https://raw.github.com/maranemil/cv_statistics/master/charts/cv_top_universities.png)](#features)
 
-#### Top activ Romanian politicians by Years
+#### Top activity Romanian politicians by Year.
 
 [![Editor Screen](https://raw.github.com/maranemil/cv_statistics/master/charts/cv_barchart_years.png)](#features)
 
