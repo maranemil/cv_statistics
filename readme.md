@@ -14,3 +14,8 @@
 * for file in *.pdf; do pdftotext -layout "$file"; done
 * for file in *.docx; do docx2txt "$file"; done
 * for file in *.doc; do abiword --to=txt  "$file"; done
+
+##### resources
+
+* https://github.com/carpsilviuionut/Localitati-coduri-postale-sql
+* https://github.com/romania/localitati
