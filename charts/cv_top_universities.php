@@ -1,28 +1,22 @@
 <?php
 
 $stringFile = file_get_contents("allinone.txt");
-$arrLines = explode("\n",$stringFile);
+$arrLines   = explode("\n", $stringFile);
 print_r($arrLines[0]);
 
-foreach($arrLines  as $line){
-    if(preg_match("/Universitatea/",$line)){
-        preg_match_all('/(Universitatea[^?\”].+?\,)/', $line, $match);
-        if(!empty($match[0][0]))
-            $arrUnis[] = trim(str_replace(array(",","-"),"",$match[0][0]));
-    }
-    if(preg_match("/Colegiul/",$line)){
-    preg_match_all('/(Colegiul[^?\”].+?\,)/', $line, $match);
-        if(!empty($match[0][0]))
-            $arrUnis[] = trim(str_replace(array(",","-"),"",$match[0][0]));
-    }
+foreach ($arrLines as $line) {
+   if (preg_match("/Universitatea/", $line)) {
+	  preg_match_all('/(Universitatea[^?\”].+?\,)/', $line, $match);
+	  if (!empty($match[0][0]))
+		 $arrUnis[] = trim(str_replace(array(",", "-"), "", $match[0][0]));
+   }
+   if (preg_match("/Colegiul/", $line)) {
+	  preg_match_all('/(Colegiul[^?\”].+?\,)/', $line, $match);
+	  if (!empty($match[0][0]))
+		 $arrUnis[] = trim(str_replace(array(",", "-"), "", $match[0][0]));
+   }
 }
 asort($arrUnis);
-#print_r(($arrUnis));
-#print_r(array_count_values($arrUnis));
-/*
-foreach($arrUnis as $uni){
-    print $uni.PHP_EOL;
-}*/
 
 $strCDV = "
 Colegiul juridic francoromân
@@ -205,9 +199,9 @@ Universitatea Vasile Goldiş Arad
 Universitatea Ştefan cel Mare Suceava
 ";
 
-$arrCDV = explode("\n",$strCDV);
-foreach($arrCDV as $entry){
-    $arrCDV2[] = trim($entry);
+$arrCDV = explode("\n", $strCDV);
+foreach ($arrCDV as $entry) {
+   $arrCDV2[] = trim($entry);
 }
 
 sort($arrCDV2);
