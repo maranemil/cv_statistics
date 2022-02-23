@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html>
+<!--suppress JSUnresolvedLibraryURL, JSUnresolvedFunction, JSUnresolvedVariable, SpellCheckingInspection -->
+<html lang="">
 <head>
     <meta charset='utf-8'/>
     <title>Simple Bar chart</title>
@@ -35,110 +36,110 @@
 <body>
 <div id="graphic"></div>
 <script>
-	let data = [
+    let data = [
 
-		{"name": "Universitatea Alexandru Ioan Cuza din Iași", "value": 23},
-		{"name": "Universitatea Spiru Haret", "value": 20},
-		{"name": "Universitatea București", "value": 19},
-		{"name": "Universitatea Babeş Bolyai", "value": 10},
-		{"name": "Universitatea de Vest Timișoara", "value": 8},
-		{"name": "Universitatea de Vest Vasile Goldis", "value": 8},
-		{"name": "Universitatea din Craiova", "value": 8},
-		{"name": "Universitatea Dunărea de jos Galați", "value": 7},
-		{"name": "Universitatea Creştină Dimitrie Cantemir", "value": 5},
-		{"name": "Universitatea Tehnică Gheorghe Asachi Iași", "value": 4},
-		{"name": "Universitatea Titu Maiorescu din București", "value": 4},
-		{"name": "Universitatea Ovidius", "value": 4},
-		{"name": "Universitatea Hyperion Bucuresti", "value": 3},
-		{"name": "Universitatea Nicolae Titulescu", "value": 2},
-		{"name": "Universitatea Româno – Americană", "value": 2},
-		{"name": "Universitatea Transilvania Brașov", "value": 2},
-		{"name": "Universitatea Vasile Goldiş Arad", "value": 3},
-		{"name": "Universitatea de Nord", "value": 3},
-		{"name": "Colegiul Național de Apărare", "value": 3}
+        {"name": "Universitatea Alexandru Ioan Cuza din Iași", "value": 23},
+        {"name": "Universitatea Spiru Haret", "value": 20},
+        {"name": "Universitatea București", "value": 19},
+        {"name": "Universitatea Babeş Bolyai", "value": 10},
+        {"name": "Universitatea de Vest Timișoara", "value": 8},
+        {"name": "Universitatea de Vest Vasile Goldis", "value": 8},
+        {"name": "Universitatea din Craiova", "value": 8},
+        {"name": "Universitatea Dunărea de jos Galați", "value": 7},
+        {"name": "Universitatea Creştină Dimitrie Cantemir", "value": 5},
+        {"name": "Universitatea Tehnică Gheorghe Asachi Iași", "value": 4},
+        {"name": "Universitatea Titu Maiorescu din București", "value": 4},
+        {"name": "Universitatea Ovidius", "value": 4},
+        {"name": "Universitatea Hyperion Bucuresti", "value": 3},
+        {"name": "Universitatea Nicolae Titulescu", "value": 2},
+        {"name": "Universitatea Româno – Americană", "value": 2},
+        {"name": "Universitatea Transilvania Brașov", "value": 2},
+        {"name": "Universitatea Vasile Goldiş Arad", "value": 3},
+        {"name": "Universitatea de Nord", "value": 3},
+        {"name": "Colegiul Național de Apărare", "value": 3}
 
-		/*{"name": "Apples", "value": 20},
+        /*{"name": "Apples", "value": 20},
         {"name": "Oranges","value": 26},
         {"name": "Pears", "value": 30}*/
 
-	];
+    ];
 
-	//sort bars based on value
-	data = data.sort(function (a, b) {
-		return d3.ascending(a.value, b.value);
-	})
+    //sort bars based on value
+    data = data.sort(function (a, b) {
+        return d3.ascending(a.value, b.value);
+    })
 
-	//set up svg using margin conventions - we'll need plenty of room on the left for labels
-	const margin = {
-		top: 25,
-		right: 25,
-		bottom: 15,
-		left: 280
-	};
+    //set up svg using margin conventions - we'll need plenty of room on the left for labels
+    const margin = {
+        top: 25,
+        right: 25,
+        bottom: 15,
+        left: 280
+    };
 
-	const width = 960 - margin.left - margin.right,
-		height = 600 - margin.top - margin.bottom;
+    const width = 960 - margin.left - margin.right,
+        height = 600 - margin.top - margin.bottom;
 
-	const svg = d3.select("#graphic").append("svg")
-		.attr("width", width + margin.left + margin.right)
-		.attr("height", height + margin.top + margin.bottom)
-		.append("g")
-		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    const svg = d3.select("#graphic").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-	const x = d3.scale.linear()
-		.range([0, width])
-		.domain([0, d3.max(data, function (d) {
-			return d.value;
-		})]);
+    const x = d3.scale.linear()
+        .range([0, width])
+        .domain([0, d3.max(data, function (d) {
+            return d.value;
+        })]);
 
-	const y = d3.scale.ordinal()
-		.rangeRoundBands([height, 0], .1)
-		.domain(data.map(function (d) {
-			return d.name;
-		}));
+    const y = d3.scale.ordinal()
+        .rangeRoundBands([height, 0], .1)
+        .domain(data.map(function (d) {
+            return d.name;
+        }));
 
-	//make y axis to show bar names
-	const yAxis = d3.svg.axis()
-		.scale(y)
-		//no tick marks
-		.tickSize(0)
-		.orient("left");
+    //make y axis to show bar names
+    const yAxis = d3.svg.axis()
+        .scale(y)
+        //no tick marks
+        .tickSize(0)
+        .orient("left");
 
-	const gy = svg.append("g")
-		.attr("class", "y axis")
-		.call(yAxis);
+    const gy = svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
 
-	const bars = svg.selectAll(".bar")
-		.data(data)
-		.enter()
-		.append("g");
+    const bars = svg.selectAll(".bar")
+        .data(data)
+        .enter()
+        .append("g");
 
-	//append rects
-	bars.append("rect")
-		.attr("class", "bar")
-		.attr("y", function (d) {
-			return y(d.name);
-		})
-		.attr("height", y.rangeBand())
-		.attr("x", 0)
-		.attr("width", function (d) {
-			return x(d.value);
-		});
+    //append rects
+    bars.append("rect")
+        .attr("class", "bar")
+        .attr("y", function (d) {
+            return y(d.name);
+        })
+        .attr("height", y.rangeBand())
+        .attr("x", 0)
+        .attr("width", function (d) {
+            return x(d.value);
+        });
 
-	//add a value label to the right of each bar
-	bars.append("text")
-		.attr("class", "label")
-		//y position of the label is halfway down the bar
-		.attr("y", function (d) {
-			return y(d.name) + y.rangeBand() / 2 + 4;
-		})
-		//x position is 3 pixels to the right of the bar
-		.attr("x", function (d) {
-			return x(d.value) + 3;
-		})
-		.text(function (d) {
-			return d.value;
-		});
+    //add a value label to the right of each bar
+    bars.append("text")
+        .attr("class", "label")
+        //y position of the label is halfway down the bar
+        .attr("y", function (d) {
+            return y(d.name) + y.rangeBand() / 2 + 4;
+        })
+        //x position is 3 pixels to the right of the bar
+        .attr("x", function (d) {
+            return x(d.value) + 3;
+        })
+        .text(function (d) {
+            return d.value;
+        });
 
 </script>
 
